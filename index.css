@@ -1,0 +1,23 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background: dimgray;
+}
+
+.wrapper {
+	width: 90vw;
+	margin: auto;
+}
+
+.for_space {
+	background: dimgray;
+	height: 5vh;
+
+}
+
+.accordion-body {
+	background: lightgray;
+}
